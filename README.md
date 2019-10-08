@@ -20,13 +20,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist yii2bs4/yii2-bootstrap4-notify "*"
+php composer.phar require yii2bs4/yii2-bootstrap4-notify "@dev"
 ```
 
 or add
 
 ```
-"yii2bs4/yii2-bootstrap4-notify": "*"
+"yii2bs4/yii2-bootstrap4-notify": "@dev"
 ```
 
 to the require section of your composer.json.
