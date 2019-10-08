@@ -29,6 +29,8 @@
             "yii2bs4\\notify\\": ""
         }
     },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "repositories": [
         {
             "type": "composer",
